@@ -2,7 +2,7 @@
 	"name": "andre-nascimento-java-spring-extension-pack",
 	"displayName": "Andre Nascimento Java Spring Extension Pack",
 	"description": "Pacote de Extensões para usar Java e Spring no VSCode",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
@@ -11,6 +11,8 @@
 	],
 	"extensionPack": [
 		"charurajput.shadesofspring",
+		"cweijan.vscode-database-client2",
+		"cweijan.dbclient-jdbc",
 		"josevseb.google-java-format-for-vs-code",
 		"rctay.karma-problem-matcher",
 		"redhat.fabric8-analytics",
@@ -42,7 +44,8 @@
 		"extensions",
 		"yml",
 		"xml",
-		"api"
+		"api",
+		"database"
 	],
 	"repository": {
 		"url": "https://github.com/andre-s-nascimento/andre-nascimento-java-spring-extension-pack"
