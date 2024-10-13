@@ -2,7 +2,7 @@
 	"name": "andre-nascimento-java-spring-extension-pack",
 	"displayName": "Andre Nascimento Java Spring Extension Pack",
 	"description": "Pacote de Extensões para usar Java e Spring no VSCode",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
